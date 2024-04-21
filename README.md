@@ -1,1 +1,1 @@
-# amazon-clone
+#  CSS based Amazon-Clone
